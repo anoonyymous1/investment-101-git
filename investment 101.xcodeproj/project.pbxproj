@@ -8,21 +8,41 @@
 
 /* Begin PBXBuildFile section */
 		27180B282A6E81CB00311CA4 /* investment_101App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B272A6E81CB00311CA4 /* investment_101App.swift */; };
-		27180B2A2A6E81CB00311CA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B292A6E81CB00311CA4 /* ContentView.swift */; };
+		27180B2A2A6E81CB00311CA4 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B292A6E81CB00311CA4 /* WelcomeView.swift */; };
 		27180B2C2A6E81CD00311CA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27180B2B2A6E81CD00311CA4 /* Assets.xcassets */; };
 		27180B2F2A6E81CD00311CA4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27180B2E2A6E81CD00311CA4 /* Preview Assets.xcassets */; };
 		27180B312A6E81CD00311CA4 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B302A6E81CD00311CA4 /* Persistence.swift */; };
 		27180B342A6E81CD00311CA4 /* investment_101.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 27180B322A6E81CD00311CA4 /* investment_101.xcdatamodeld */; };
+		27180B3B2A6F8C4E00311CA4 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B3A2A6F8C4E00311CA4 /* RegisterView.swift */; };
+		27180B3F2A6F8CB100311CA4 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B3E2A6F8CB100311CA4 /* LoginView.swift */; };
+		27180B412A6F8CD100311CA4 /* UnitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B402A6F8CD100311CA4 /* UnitsView.swift */; };
+		27180B432A6F8CFA00311CA4 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B422A6F8CFA00311CA4 /* Constants.swift */; };
+		27180B452A6F8D2400311CA4 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B442A6F8D2400311CA4 /* QuizView.swift */; };
+		27180B472A6F8D4D00311CA4 /* EndOfQuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B462A6F8D4D00311CA4 /* EndOfQuizView.swift */; };
+		27180B492A6F8D7C00311CA4 /* GoogleService-Info (3).plist in Resources */ = {isa = PBXBuildFile; fileRef = 27180B482A6F8D7B00311CA4 /* GoogleService-Info (3).plist */; };
+		27180B4B2A6F8D9C00311CA4 /* StockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B4A2A6F8D9C00311CA4 /* StockView.swift */; };
+		27180B4D2A6F8DDA00311CA4 /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B4C2A6F8DDA00311CA4 /* MainMenuView.swift */; };
+		27180B4F2A6F93FF00311CA4 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27180B4E2A6F93FF00311CA4 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		27180B242A6E81CB00311CA4 /* investment 101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "investment 101.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27180B272A6E81CB00311CA4 /* investment_101App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = investment_101App.swift; sourceTree = "<group>"; };
-		27180B292A6E81CB00311CA4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		27180B292A6E81CB00311CA4 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		27180B2B2A6E81CD00311CA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27180B2E2A6E81CD00311CA4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		27180B302A6E81CD00311CA4 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		27180B332A6E81CD00311CA4 /* investment_101.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = investment_101.xcdatamodel; sourceTree = "<group>"; };
+		27180B3A2A6F8C4E00311CA4 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		27180B3E2A6F8CB100311CA4 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		27180B402A6F8CD100311CA4 /* UnitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitsView.swift; sourceTree = "<group>"; };
+		27180B422A6F8CFA00311CA4 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		27180B442A6F8D2400311CA4 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		27180B462A6F8D4D00311CA4 /* EndOfQuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndOfQuizView.swift; sourceTree = "<group>"; };
+		27180B482A6F8D7B00311CA4 /* GoogleService-Info (3).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (3).plist"; sourceTree = "<group>"; };
+		27180B4A2A6F8D9C00311CA4 /* StockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockView.swift; sourceTree = "<group>"; };
+		27180B4C2A6F8DDA00311CA4 /* MainMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuView.swift; sourceTree = "<group>"; };
+		27180B4E2A6F93FF00311CA4 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +76,17 @@
 			isa = PBXGroup;
 			children = (
 				27180B272A6E81CB00311CA4 /* investment_101App.swift */,
-				27180B292A6E81CB00311CA4 /* ContentView.swift */,
+				27180B292A6E81CB00311CA4 /* WelcomeView.swift */,
+				27180B4C2A6F8DDA00311CA4 /* MainMenuView.swift */,
+				27180B4E2A6F93FF00311CA4 /* ProfileView.swift */,
+				27180B3A2A6F8C4E00311CA4 /* RegisterView.swift */,
+				27180B3E2A6F8CB100311CA4 /* LoginView.swift */,
+				27180B402A6F8CD100311CA4 /* UnitsView.swift */,
+				27180B422A6F8CFA00311CA4 /* Constants.swift */,
+				27180B442A6F8D2400311CA4 /* QuizView.swift */,
+				27180B462A6F8D4D00311CA4 /* EndOfQuizView.swift */,
+				27180B4A2A6F8D9C00311CA4 /* StockView.swift */,
+				27180B482A6F8D7B00311CA4 /* GoogleService-Info (3).plist */,
 				27180B2B2A6E81CD00311CA4 /* Assets.xcassets */,
 				27180B302A6E81CD00311CA4 /* Persistence.swift */,
 				27180B322A6E81CD00311CA4 /* investment_101.xcdatamodeld */,
@@ -132,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27180B2F2A6E81CD00311CA4 /* Preview Assets.xcassets in Resources */,
+				27180B492A6F8D7C00311CA4 /* GoogleService-Info (3).plist in Resources */,
 				27180B2C2A6E81CD00311CA4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,10 +174,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27180B3F2A6F8CB100311CA4 /* LoginView.swift in Sources */,
+				27180B4F2A6F93FF00311CA4 /* ProfileView.swift in Sources */,
 				27180B312A6E81CD00311CA4 /* Persistence.swift in Sources */,
+				27180B452A6F8D2400311CA4 /* QuizView.swift in Sources */,
+				27180B3B2A6F8C4E00311CA4 /* RegisterView.swift in Sources */,
 				27180B342A6E81CD00311CA4 /* investment_101.xcdatamodeld in Sources */,
-				27180B2A2A6E81CB00311CA4 /* ContentView.swift in Sources */,
+				27180B2A2A6E81CB00311CA4 /* WelcomeView.swift in Sources */,
+				27180B4D2A6F8DDA00311CA4 /* MainMenuView.swift in Sources */,
+				27180B4B2A6F8D9C00311CA4 /* StockView.swift in Sources */,
+				27180B412A6F8CD100311CA4 /* UnitsView.swift in Sources */,
 				27180B282A6E81CB00311CA4 /* investment_101App.swift in Sources */,
+				27180B472A6F8D4D00311CA4 /* EndOfQuizView.swift in Sources */,
+				27180B432A6F8CFA00311CA4 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
